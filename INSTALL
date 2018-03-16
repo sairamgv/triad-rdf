@@ -1,8 +1,5 @@
 The installation instructions are for Linux.
 
-Packages needed:
-2.
-3. 
 
 The built scripts will search for dependencies in ~/local first, so
 all dependencies can be installed without administrator rights.
