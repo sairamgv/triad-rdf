@@ -56,7 +56,7 @@ all dependencies can be installed without administrator rights.
    - Use a package from your distribution (ccache)   
 
 7. Install mpi2 libraries
-   a) Obtain libraries from Rainer Gemulla (rgemulla@uni-mannheim.de)
+   a) Obtain libraries from https://github.com/uma-pi1/mpi2
    b) To build, cd to <mpi2-root>/build then,
       - run localinstall.sh  (if fails, see troubleshooting)
    
